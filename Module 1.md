@@ -1,5 +1,5 @@
 # Module 1
-## HARI NIVEDHAN
+
 ## 1. Write a python program to print the following integer literals 123,456,789
 
 ##  AIM
