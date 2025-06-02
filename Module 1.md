@@ -25,7 +25,8 @@ print(a)
 ```
 ## Output
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f7b22c2f-9da7-460d-a1bc-3d95cdf2b5a9)
+
 
 
 ## 2. Write a python program to read and  then print the string.  men_stepped_on_the_moon= print()
