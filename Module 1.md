@@ -1,6 +1,6 @@
 # Module 1
 
-## 1. Write a python program to print the following integer literals 123,456,789
+## 1. Write a python program to print the integer
 
 ##  AIM
 To write a Python program read and  then print the integer variable.
