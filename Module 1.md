@@ -3,8 +3,7 @@
 ## 1. Write a python program to print the following integer literals 123,456,789
 
 ##  AIM
-To write a Python program that prints the following integer literals separated by commas:  
-**123, 456, 789**
+To write a Python program read and  then print the integer variable.
 
 ---
 
@@ -19,12 +18,13 @@ To write a Python program that prints the following integer literals separated b
 
 ##  Python Code
 ```
-# Program to print integer literals: 123, 456, 789
+# Program to read print integer : 
 
-print(123, 456, 789)
+a = int(input())
+print(a)
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/1215bbc5-7448-486f-9bc8-bfdb37cfa0d9)
+
 
 ## 2. Write a python program to read and  then print the string.  men_stepped_on_the_moon= print()
 
