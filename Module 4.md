@@ -1,5 +1,4 @@
 # Module 4
-## HARI NIVEDHAN
 
 ## 1. Print the value of the key 'history' from the given dictionary.
 `sampleDict = { "class": { "student": { "name": "Mike", "marks": { "physics": 70, "history": 80 } } } }`
