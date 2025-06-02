@@ -25,6 +25,8 @@ print(a)
 ```
 ## Output
 
+![Uploading image.png…]()
+
 
 ## 2. Write a python program to read and  then print the string.  men_stepped_on_the_moon= print()
 
