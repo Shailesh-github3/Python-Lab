@@ -1,5 +1,4 @@
 # Module 6
-## HARI NIVEDHAN
 
 ## 1. created two classes Ferrari and BMW. They have the same instance method names `fuel_type()` and `max_speed()`. However, we have not linked both the classes nor have we used inheritance. Pack two different objects into a `tuple` and iterate through it using a car variable.
 
